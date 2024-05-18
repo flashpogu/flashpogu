@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
+<img align="right" alt="Coding" width="400" src="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8468e3bd92a28e702a5497f684">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flashpogu&label=Profile%20views&color=0e75b6&style=flat" alt="flashpogu" /> </p>
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **rahulkumar23.me@outlook.com**
 
-- ⚡ Fun fact **I think am funny**
+- ⚡ Fun fact **I have a great taste in music and love curating playlists for different moods and occasions**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
